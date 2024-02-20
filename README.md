@@ -1,5 +1,7 @@
 ### Functional Specification Document (FSD)
 ___
+berikut merupakan fungsional spesifik dokumen
+
 ### Functional Specification Document (FSD) atau disebut juga Dokumentasi fungsi aplikasi.
 ___
 ### Technical Specification Document (TSD)
