@@ -1,9 +1,9 @@
 ### List & Profil Mitra
-## 1. Daftar Mitra
+1. Daftar Mitra
 - Buat Filter
 - Buat Field Pencarian
 - Buat Daftar Mitra Pencarian
-## list & profil mitra
+list & profil mitra
 - 1. Daftar mitra
 - Buat Filter
 - Buat Field Pencarian
@@ -11,7 +11,7 @@
 - Filter kategori mitra -> Yayasan, UMKM, K/L, DUDI
 - Filter Bidang-> Kemandirian Pangan, Energi dan sumber daya alam. dll.
 - Filter Pengajuan Proposal ->
-## 2. Halaman Detail mitra 
+2. Halaman Detail mitra 
 - Contoh dari detail web kedai reka
 - Komponen profil mitra
 - Komponen proposal
