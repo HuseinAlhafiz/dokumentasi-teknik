@@ -1,8 +1,7 @@
 ### List & Profil Mitra
-___
 berikut merupakan fungsional spesifik dokumen
 ## 1. Daftar Mitra
-### TBuat Filter
+### Buat Filter
 ### Buat Field Pencarian
 ### Buat Daftar Mitra Pencarian
 ## list & profil mitra
