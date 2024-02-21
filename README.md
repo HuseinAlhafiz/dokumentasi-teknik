@@ -1,5 +1,5 @@
 ### List & Profil Mitra
-list & profil mitra
+___
 1. Daftar mitra
 - Buat Filter
 - Buat Field Pencarian
@@ -13,6 +13,7 @@ list & profil mitra
 - Komponen proposal
 - Detail proposal
 ### Akses Mitra
+___
 1. Mitra bisa mengakses backoffice
 2. Mitra bisa melihat daftar dan detail proposal 2024
 3. Mitra bisa melihat daftar dan detail proposal 2023
@@ -20,4 +21,6 @@ list & profil mitra
 5. Mitra bisa melihat daftar dan detail proposal 2021
 6. Mitra bisa melihat daftar detail kolaborasi rekacipta dan peluang cipta
 ### List dan Profil Penyusul
+___
 ### List dan Profil Perguruan Tinggi
+___
