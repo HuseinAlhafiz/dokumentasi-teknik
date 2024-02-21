@@ -1,8 +1,4 @@
 ### List & Profil Mitra
-1. Daftar Mitra
-- Buat Filter
-- Buat Field Pencarian
-- Buat Daftar Mitra Pencarian
 list & profil mitra
 - 1. Daftar mitra
 - Buat Filter
@@ -23,3 +19,5 @@ list & profil mitra
 4. Mitra bisa melihat daftar dan detail proposal 2022
 5. Mitra bisa melihat daftar dan detail proposal 2021
 6. Mitra bisa melihat daftar detail kolaborasi rekacipta dan peluang cipta
+### List dan Profil Penyusul
+### List dan Profil Perguruan Tinggi
