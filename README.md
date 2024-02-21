@@ -37,7 +37,7 @@ berikut merupakan fungsional spesifik dokumen
 ### Buat Field Pencarian
 ### Buat Daftar Mitra Pencarian
 ## list & profil mitra
-###1. Daftar mitra
+### 1. Daftar mitra
 ### - Buat Filter
 ### - Buat Field Pencarian
 ###- Buat daftar mitra dengan pagination
@@ -45,8 +45,7 @@ berikut merupakan fungsional spesifik dokumen
 ### Filter Bidang-> Kemandirian Pangan, Energi dan sumber daya alam. dll.
 ### Filter Pengajuan Proposal ->
 
-2. Halaman Detail mitra
-3. 
+### 2. Halaman Detail mitra 
 ### Installation guide/manual
 ___
 ### FAQ (Frequently Asked Question)
