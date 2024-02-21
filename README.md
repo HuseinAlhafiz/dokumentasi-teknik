@@ -1,7 +1,6 @@
 ### List & Profil Mitra
 ___
 berikut merupakan fungsional spesifik dokumen
-
 ## 1. Daftar Mitra
 ### TBuat Filter
 ### Buat Field Pencarian
@@ -14,5 +13,4 @@ berikut merupakan fungsional spesifik dokumen
 ### Filter kategori mitra -> Yayasan, UMKM, K/L, DUDI
 ### Filter Bidang-> Kemandirian Pangan, Energi dan sumber daya alam. dll.
 ### Filter Pengajuan Proposal ->
-
 ### 2. Halaman Detail mitra 
