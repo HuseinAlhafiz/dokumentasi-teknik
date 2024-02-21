@@ -1,4 +1,4 @@
-### Functional Specification Document (FSD)
+### List & Profil Mitra
 ___
 berikut merupakan fungsional spesifik dokumen
 <!DOCTYPE html>
@@ -32,14 +32,21 @@ berikut merupakan fungsional spesifik dokumen
   </body>
 </html>
 
-### Functional Specification Document (FSD) atau disebut juga Dokumentasi fungsi aplikasi.
-___
-### Technical Specification Document (TSD)
-___
-### User Manual
-___
-### Quick Reference Guide (QRG)
-___
+## 1. Daftar Mitra
+### TBuat Filter
+### Buat Field Pencarian
+### Buat Daftar Mitra Pencarian
+## list & profil mitra
+###1. Daftar mitra
+### - Buat Filter
+### - Buat Field Pencarian
+###- Buat daftar mitra dengan pagination
+### Filter kategori mitra -> Yayasan, UMKM, K/L, DUDI
+### Filter Bidang-> Kemandirian Pangan, Energi dan sumber daya alam. dll.
+### Filter Pengajuan Proposal ->
+
+2. Halaman Detail mitra
+3. 
 ### Installation guide/manual
 ___
 ### FAQ (Frequently Asked Question)
