@@ -16,3 +16,10 @@ list & profil mitra
 - Komponen profil mitra
 - Komponen proposal
 - Detail proposal
+### Akses Mitra
+1. Mitra bisa mengakses backoffice
+2. Mitra bisa melihat daftar dan detail proposal 2024
+3. Mitra bisa melihat daftar dan detail proposal 2023
+4. Mitra bisa melihat daftar dan detail proposal 2022
+5. Mitra bisa melihat daftar dan detail proposal 2021
+6. Mitra bisa melihat daftar detail kolaborasi rekacipta dan peluang cipta
