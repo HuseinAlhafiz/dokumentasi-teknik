@@ -23,11 +23,11 @@ ___
 ### Pendefinisian Fitur & Fungsionalitas Fitur
 ___
 Definisi Testing:
-##### Hetzel 1983 (Revisi):
+Hetzel 1983 (Revisi):
 - Testing adalah aktivitas untuk evaluasi atribut atau kemampuan suatu program atau sistem, memastikan memenuhi kebutuhan atau hasil yang diharapkan.
-##### Standar ANSI/IEEE 1059:
+Standar ANSI/IEEE 1059:
 - Testing adalah proses menganalisis entitas software untuk mendeteksi perbedaan antara kondisi yang ada dan diinginkan, serta mengevaluasi fitur-fitur software.
-### Nidhra & Dondeti (2012):
+Nidhra & Dondeti (2012):
 - Pengujian software adalah teknik untuk verifikasi dan validasi kualitas suatu software, dengan tujuan menemukan kesalahan.
 
 Verifikasi (Are we building the system right?): Pengecekan pemenuhan dan konsistensi entitas, termasuk software, dengan kebutuhan yang ditetapkan.
