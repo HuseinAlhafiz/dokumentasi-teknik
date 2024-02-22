@@ -33,6 +33,7 @@ Nidhra & Dondeti (2012):
 - Pengujian software adalah teknik untuk verifikasi dan validasi kualitas suatu software, dengan tujuan menemukan kesalahan.
 
 Verifikasi (Are we building the system right?): Pengecekan pemenuhan dan konsistensi entitas, termasuk software, dengan kebutuhan yang ditetapkan.
+
 Validasi (Are we building the right system?): Memastikan bahwa proses dalam spesifikasi sesuai dengan keinginan atau kebutuhan pengguna.
 
 ### Strategi Testing:
@@ -59,6 +60,9 @@ Memastikan koneksi dan akses database serta alur pemrosesan data.
 Memastikan website dapat berjalan di berbagai browser dan versi.
 - Performance and Stress Testing:
 Mengukur kemampuan, response time, dan proses yang terjadi dalam keadaan workloads diatas atau dibawah rata-rata.
+
+### Template Test Case:
+Berisi Judul Test Case, Nama Tester, Waktu Testing, Tujuan, Test Case, Deskripsi, Step, Data Uji, Hasil Yang diharpkan, Hasil uji, Lulus/Gagal.
 
 ### List dan Profil Penyusul
 ___
