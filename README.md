@@ -32,9 +32,11 @@ Standar ANSI/IEEE 1059:
 Nidhra & Dondeti (2012):
 - Pengujian software adalah teknik untuk verifikasi dan validasi kualitas suatu software, dengan tujuan menemukan kesalahan.
 
-Verifikasi (Are we building the system right?): Pengecekan pemenuhan dan konsistensi entitas, termasuk software, dengan kebutuhan yang ditetapkan.
+Verifikasi (Are we building the system right?): 
+Pengecekan pemenuhan dan konsistensi entitas, termasuk software, dengan kebutuhan yang ditetapkan.
 
-Validasi (Are we building the right system?): Memastikan bahwa proses dalam spesifikasi sesuai dengan keinginan atau kebutuhan pengguna.
+Validasi (Are we building the right system?): 
+Memastikan bahwa proses dalam spesifikasi sesuai dengan keinginan atau kebutuhan pengguna.
 
 ### Strategi Testing:
 Unit Testing:
