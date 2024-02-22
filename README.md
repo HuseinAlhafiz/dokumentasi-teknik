@@ -20,19 +20,22 @@ ___
 4. Mitra bisa melihat daftar dan detail proposal 2022
 5. Mitra bisa melihat daftar dan detail proposal 2021
 6. Mitra bisa melihat daftar detail kolaborasi rekacipta dan peluang cipta
-### Pendefinisian Fitur
+### Pendefinisian Fitur & Fungsionalitas Fitur
 ___
 Definisi Testing:
-Hetzel 1983 (Revisi):
+##### Hetzel 1983 (Revisi):
 - Testing adalah aktivitas untuk evaluasi atribut atau kemampuan suatu program atau sistem, memastikan memenuhi kebutuhan atau hasil yang diharapkan.
-Standar ANSI/IEEE 1059:
+##### Standar ANSI/IEEE 1059:
 - Testing adalah proses menganalisis entitas software untuk mendeteksi perbedaan antara kondisi yang ada dan diinginkan, serta mengevaluasi fitur-fitur software.
 Nidhra & Dondeti (2012):
 - Pengujian software adalah teknik untuk verifikasi dan validasi kualitas suatu software, dengan tujuan menemukan kesalahan.
 
+Verifikasi (Are we building the system right?): Pengecekan pemenuhan dan konsistensi entitas, termasuk software, dengan kebutuhan yang ditetapkan.
+Validasi (Are we building the right system?): Memastikan bahwa proses dalam spesifikasi sesuai dengan keinginan atau kebutuhan pengguna.
+
 ### Strategi Testing:
 Unit Testing:
-Fokus pada verifikasi unit terkecil dari desain, komponen, atau modul software.
+- Fokus pada verifikasi unit terkecil dari desain, komponen, atau modul software.
 Melibatkan pengujian modul antarmuka, struktur data lokal, batasan kondisi, dan jalur penanganan kesalahan.
 
 Integration Testing:
@@ -53,9 +56,8 @@ Memastikan koneksi dan akses database serta alur pemrosesan data.
 - Interoperability Testing:
 Memastikan website dapat berjalan di berbagai browser dan versi.
 - Performance and Stress Testing:
-Mengukur kemampuan, response time, dan proses pada beban kerja berbeda.
-### Fungsionalitas Fitur
-___
+Mengukur kemampuan, response time, dan proses yang terjadi dalam keadaan workloads diatas atau dibawah rata-rata.
+
 ### List dan Profil Penyusul
 ___
 ### List dan Profil Perguruan Tinggi
