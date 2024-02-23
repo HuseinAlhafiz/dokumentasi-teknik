@@ -41,6 +41,8 @@ Terwujudnya sistem Lorem ipsum is placeholder text commonly used in the graphic,
 - Detail proposal
 ### Akses Mitra
 ___
+![Uploading image.png…]()
+
 1. Mitra bisa mengakses backoffice
 2. Mitra bisa melihat daftar dan detail proposal 2024
 3. Mitra bisa melihat daftar dan detail proposal 2023
