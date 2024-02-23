@@ -8,6 +8,9 @@ ___
 - Delivery Date:
 - Sign off Date:
 
+![image](https://github.com/HuseinAlhafiz/techincal-writer-resource/assets/159611470/5623e4bd-2360-46c0-9423-4c62fd6dab83)
+
+
 ### 2. Riwayat Revisi
 - Version
 - Author
@@ -41,7 +44,6 @@ Terwujudnya sistem Lorem ipsum is placeholder text commonly used in the graphic,
 - Detail proposal
 ### Akses Mitra
 ___
-![Uploading image.png…]()
 
 1. Mitra bisa mengakses backoffice
 2. Mitra bisa melihat daftar dan detail proposal 2024
