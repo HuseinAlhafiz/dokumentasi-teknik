@@ -1,5 +1,16 @@
-### List & Profil Mitra
+## Informasi Umum
 ___
+1. Person in Charge
+   Document Owner
+   Designer
+   Developers
+   QA
+   Delivery Date
+   Sign off Date
+
+
+
+
 1. Daftar mitra
          1. ss
          2. ss
