@@ -2,7 +2,7 @@
 ___
 ### 1. Person in Charge
 - Document Owner:
-- Designer:
+- Designer: 
 - Developers:
 - QA:
 - Delivery Date:
@@ -20,7 +20,7 @@ Backofffice Intradikti merupakan Lorem ipsum is placeholder text commonly used i
 Terwujudnya sistem Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
 ## Informasi Umum
-2. Fitur yang dikembangkan
+Fitur yang dikembangkan
 
 1. Daftar mitra
 - Buat Filter
@@ -42,6 +42,7 @@ Terwujudnya sistem Lorem ipsum is placeholder text commonly used in the graphic,
 - Mitra bisa melihat daftar detail kolaborasi rekacipta dan peluang cipta
 
 Pendefinisian Fitur & Fungsionalitas Fitur
+
 Definisi Testing:
 Hetzel 1983 (Revisi):
 - Testing adalah aktivitas untuk evaluasi atribut atau kemampuan suatu program atau sistem, memastikan memenuhi kebutuhan atau hasil yang diharapkan.
@@ -52,6 +53,7 @@ Nidhra & Dondeti (2012):
 
 Verifikasi (Are we building the system right?): 
 Pengecekan pemenuhan dan konsistensi entitas, termasuk software, dengan kebutuhan yang ditetapkan.
+
 Validasi (Are we building the right system?): 
 Memastikan bahwa proses dalam spesifikasi sesuai dengan keinginan atau kebutuhan pengguna.
 
