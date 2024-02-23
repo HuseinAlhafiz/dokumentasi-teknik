@@ -1,14 +1,25 @@
 ## Informasi Umum
 ___
 ### 1. Person in Charge
-- Document Owner
-- Designer
-- Developers
-- QA
-- Delivery Date
-- Sign off Date
+- Document Owner:
+- Designer:
+- Developers:
+- QA:
+- Delivery Date:
+- Sign off Date:
 
 ### 2. Riwayat Revisi
+- Version
+- Author
+- Revision Notes
+
+### 3. Latar Belakang
+Backofffice Intradikti merupakan Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
+### 4. Tujuan
+Terwujudnya sistem Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
+## Informasi Umum
 
 
 
