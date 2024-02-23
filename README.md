@@ -1,6 +1,10 @@
 ### List & Profil Mitra
 ___
 1. Daftar mitra
+   1.sss
+   2.sss
+   3.sss
+   
 - Buat Filter
 - Buat Field Pencarian
 - Buat daftar mitra dengan pagination
