@@ -10,8 +10,8 @@ ___
 | Sign off Date: | Content Cell |
 
 ### 2. Riwayat Revisi
-| Version || Author || Revision Notes |
-| ------- || ------ || -------------- |
+| Version | Author | Revision Notes |
+| ------- | ------ | -------------- |
 
 ### 3. Latar Belakang
 Backofffice Intradikti merupakan Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
