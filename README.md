@@ -1,12 +1,12 @@
 ## Informasi Umum
 ___
 ### 1. Person in Charge
-- Document Owner:
-- Designer: 
-- Developers:
-- QA:
-- Delivery Date:
-- Sign off Date:
+| Document Owner:|
+| Designer: |
+| Developers:|
+| QA: |
+| Delivery Date: |
+| Sign off Date: |
 
 ### 2. Riwayat Revisi
 - Version
