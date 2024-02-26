@@ -1,4 +1,4 @@
-## Informasi Umum
+## A. Informasi Umum
 ___
 ### 1. Person in Charge
 | Document Owner | Second Header |
@@ -20,8 +20,14 @@ Backofffice Intradikti merupakan Lorem ipsum is placeholder text commonly used i
 ### 4. Tujuan
 Terwujudnya sistem Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## Informasi Umum
-Fitur yang dikembangkan
+## B. Informasi Umum
+| No | User Category | User Main Activity |
+| ------- | ------ | -------------- |
+| 1 | Mitra | -•	Bisa melihat daftar dan detail proposal 2024
+•	Bisa melihat daftar dan detail proposal 2023
+•	   melihat daftar dan detail proposal 2022
+•	Mitra bisa melihat daftar dan detail proposal 2021
+•	Mitra bisa melihat daftar dan detail proposal 2021 |
 
 1. Daftar mitra
 - Buat Filter
