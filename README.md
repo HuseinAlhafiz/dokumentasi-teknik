@@ -13,6 +13,7 @@ ___
 | Version | Author | Revision Notes |
 | ------- | ------ | -------------- |
 | Content | Content | Content |
+                    | Content |
 
 ### 3. Latar Belakang
 Backofffice Intradikti merupakan Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
