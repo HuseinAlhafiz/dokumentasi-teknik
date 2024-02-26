@@ -24,6 +24,10 @@ Terwujudnya sistem Lorem ipsum is placeholder text commonly used in the graphic,
 | No | User Category | User Main Activity |
 | -- | ------ | -------------- |
 | 1 | Mitra | - Bisa melihat daftar dan detail proposal 2024 | - Bisa melihat daftar dan detail proposal 2023 | - Bisa melihat daftar dan detail proposal 2022 | - Bisa melihat daftar dan detail proposal 2021 | - Mitra bisa melihat daftar dan detail proposal 2021 |
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
              
 
 1. Daftar mitra
