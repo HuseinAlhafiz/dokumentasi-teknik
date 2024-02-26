@@ -1,12 +1,13 @@
 ## Informasi Umum
 ___
 ### 1. Person in Charge
-| Document Owner:|
-| Designer: |
-| Developers:|
-| QA: |
-| Delivery Date: |
-| Sign off Date: |
+| Document Owner | Second Header |
+| -------------- | ------------- |
+| Designer | Vita |
+| Developers| Ilham
+| QA | Husein & Husein |
+| Delivery Date | Content Cell |
+| Sign off Date: | Content Cell |
 
 ### 2. Riwayat Revisi
 - Version
