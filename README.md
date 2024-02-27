@@ -1,26 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Documentation</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid #dddddd;
-            text-align: left;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
-
     <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -142,6 +119,12 @@
             <th>Feature</th>
         </tr>
         <!-- Your data rows go here -->
+        <tr>
+            <th>1</th>
+            <th>Halaman Daftar Mitra</th>
+            <th>-Membuat filer <br> Membuat field pencarian <br> Membuat daftar mitra dengan pagination <br> Filter kategori mitra: Yayasan, UMKM , K/L, DUDI <br> Filter bidang: Kemandirian pangan, Energi dan sumber daya alam, dll. <br</th>
+        </tr>
+        
     </table>
 
     <h2>DETAIL FITUR</h2>
