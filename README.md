@@ -1,3 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Documentation</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>MF BACKOFFICE BATCH 6</h1>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Nama</th>
+            <th>Role</th>
+            <th>Nama Mentor</th>
+        </tr>
+        <!-- Your data rows go here -->
+    </table>
+
+    <h2>ROLES</h2>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>User Category</th>
+            <th>User Main Activity</th>
+        </tr>
+        <!-- Your data rows go here -->
+    </table>
+
+    <h2>FITUR YANG DIKEMBANGKAN</h2>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Epic</th>
+            <th>Feature</th>
+        </tr>
+        <!-- Your data rows go here -->
+    </table>
+
+    <h2>DETAIL FITUR</h2>
+
+    <table>
+        <tr>
+            <th>Informasi singkat</th>
+            <th>Target Release</th>
+        </tr>
+        <tr>
+            <td>Epic</td>
+            <td>Mitra</td>
+        </tr>
+        <tr>
+            <td>Short Explanation</td>
+            <td>Fitur untuk user/mitra dapat melakukan pencarian berdasarkan kriteria yang diinginkan</td>
+        </tr>
+        <tr>
+            <td>Document Status</td>
+            <td>Draft</td>
+        </tr>
+    </table>
+
+    <h2>REQUIREMENT</h2>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>User Story</th>
+            <th>Priority</th>
+            <th>Notes</th>
+        </tr>
+        <!-- Your data rows go here -->
+    </table>
+
+    <script>
+        // You can add JavaScript code here if needed
+    </script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
 ## MF BACKOFFICE BATCH 6
 | No | Nama | Role | Nama Mentor |
 | -- | ---- | ---- | ----------- |
