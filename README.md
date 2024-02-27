@@ -41,36 +41,15 @@ REQUIREMENT
 | 2 | As a MF Intradikti Admin <br> I want search a category as MF Intradikti Admin <br> So I Can search and acces every MF Intradikti Admin features | Must Have | Form Filter MF Intradikti Admin sebagai berikut: <br> 1. Filter Kategori Mitra* <br> 2.	Filter Bidang* <br> 3.	Filter Pengajuan Proposal* |
 
 
-
-
-
-
-## A. Informasi Umum
-___
-### 1. Person in Charge
-| Document Owner | Second Header |
-| -------------- | ------------- |
-| Designer | Vita |
-| Developers| Ilham
-| QA | Husein & Husein |
-| Delivery Date | Content Cell |
-| Sign off Date: | Content Cell |
-
-### 2. Riwayat Revisi
-| Version | Author | Revision Notes |
-| ------- | ------ | -------------- |
-|  |  |  |
-
 ### 3. Latar Belakang
 Backofffice Intradikti merupakan Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
 ### 4. Tujuan
 Terwujudnya sistem Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## B. Informasi Umum
 | No | User Category | User Main Activity |
 | -- | ------ | -------------- |
-| 1 | Mitra | - Bisa melihat daftar dan detail proposal 2024 <br> - Bisa melihat daftar dan detail proposal 2023 ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencefocus.com%2Fplanet-earth%2Fmountains&psig=AOvVaw3dA5WlMo1Xapjc2vbnqLkj&ust=1709093916823000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiO9I_VyoQDFQAAAAAdAAAAABAE) | - Bisa melihat daftar dan detail proposal 2022 | - Bisa melihat daftar dan detail proposal 2021 | - Mitra bisa melihat daftar dan detail proposal 2021 | 
+| 1 | Mitra | - Bisa melihat daftar dan detail proposal 2024 <br> - Bisa melihat daftar dan detail proposal 2023 ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencefocus.com%2Fplanet-earth%2Fmountains&psig=AOvVaw3dA5WlMo1Xapjc2vbnqLkj&ust=1709093916823000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiO9I_VyoQDFQAAAAAdAAAAABAE) | 
 
 - [x] Write the press release
 - [ ] Update the website
