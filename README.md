@@ -48,10 +48,10 @@
 
     <table>
         <tr>
-            <th>No</th>
-            <th>Nama</th>
-            <th>Role</th>
-            <th>Nama Mentor</th>
+            <td>No</td>
+            <td>Nama</td>
+            <td>Role</td>
+            <td>Nama Mentor</td>
         </tr>
         <!-- Your data rows go here -->
         <tr>
