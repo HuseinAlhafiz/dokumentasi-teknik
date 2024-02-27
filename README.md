@@ -21,6 +21,29 @@
 </head>
 <body>
 
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Documentation</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
     <h1>MF BACKOFFICE BATCH 6</h1>
 
     <table>
@@ -31,6 +54,66 @@
             <th>Nama Mentor</th>
         </tr>
         <!-- Your data rows go here -->
+        <tr>
+            <th>1.</th>
+            <th>Ahmad Jalu F. N. H.	 </th>
+            <th>Fullstack Developer</th>
+            <th>M. Hilmy.</th>
+        </tr>
+        <tr>
+            <th>2.</th>
+            <th>Fullstack Developer </th>
+            <th>Techincal Writer</th>
+            <th>M. Zulkifli</th>
+        </tr>
+        <tr>
+            <th>3.</th>
+            <th>Bintang Rahmatullah </th>
+            <th>Fullstack Developer</th>
+            <th>M. Hilmy</th>
+        </tr>
+        <tr>
+            <th>4.</th>
+            <th>Husein Alhafiz </th>
+            <th>Techincal Writer</th>
+            <th>Rian AP.</th>
+        </tr>
+        <tr>
+            <th>5.</th>
+            <th>Michael Mervin R </th>
+            <th>Fullstack Developer</th>
+            <th>Rian AP.</th>
+        </tr>
+        <tr>
+            <th>6.</th>
+            <th>M. Fadly Febrian </th>
+            <th>Quality Assurancer</th>
+            <th>Rian AP.</th>
+        </tr>
+        <tr>
+            <th>7.</th>
+            <th>M. Ibnu Al Hanif </th>
+            <th>Quality Assurance</th>
+            <th>Rian AP.</th>
+        </tr>
+        <tr>
+            <th>8.</th>
+            <th>Novita Rahmadhani </th>
+            <th>UI/UX Engineer</th>
+            <th>Rian AP.</th>
+        </tr>
+        <tr>
+            <th>9.</th>
+            <th>Reza Irvando </th>
+            <th>Fullstack Developer</th>
+            <th>Dimas Ahmad</th>
+        </tr>
+        <tr>
+            <th>10.</th>
+            <th>Umar Hadi Mukti </th>
+            <th>Fullstack Developer</th>
+            <th>Dimas Ahmad</th>
+        </tr>
     </table>
 
     <h2>ROLES</h2>
@@ -91,6 +174,10 @@
     <script>
         // You can add JavaScript code here if needed
     </script>
+
+</body>
+</html>
+
 
 </body>
 </html>
