@@ -23,7 +23,7 @@ Terwujudnya sistem Lorem ipsum is placeholder text commonly used in the graphic,
 ## B. Informasi Umum
 | No | User Category | User Main Activity |
 | -- | ------ | -------------- |
-| 1 | Mitra | - Bisa melihat daftar dan detail proposal 2024 | - Bisa melihat daftar dan detail proposal 2023 | - Bisa melihat daftar dan detail proposal 2022 | - Bisa melihat daftar dan detail proposal 2021 | - Mitra bisa melihat daftar dan detail proposal 2021 |
+| 1 | Mitra | - Bisa melihat daftar dan detail proposal 2024 <br> - Bisa melihat daftar dan detail proposal 2023 ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencefocus.com%2Fplanet-earth%2Fmountains&psig=AOvVaw3dA5WlMo1Xapjc2vbnqLkj&ust=1709093916823000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiO9I_VyoQDFQAAAAAdAAAAABAE) | - Bisa melihat daftar dan detail proposal 2022 | - Bisa melihat daftar dan detail proposal 2021 | - Mitra bisa melihat daftar dan detail proposal 2021 | 
 
 | No | Epic | Feature |
 | -- | ------ | -------------- |
