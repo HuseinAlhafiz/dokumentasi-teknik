@@ -125,6 +125,12 @@
             <th>User Main Activity</th>
         </tr>
         <!-- Your data rows go here -->
+        <tr>
+            <th>1</th>
+            <th>Mitra</th>
+            <th>Bisa melihat daftar dan detail proposal 2024 <br> Bisa melihat daftar dan detail proposal 2023 <br> Bisa melihat daftar dan detail proposal 2022 <br> Bisa melihat daftar dan detail proposal 2021</th>
+        </tr>
+        
     </table>
 
     <h2>FITUR YANG DIKEMBANGKAN</h2>
