@@ -121,10 +121,10 @@
         <tr>
             <td>1</td>
             <td>Halaman Daftar Mitra</td>
-            <td>Membuat filer <br> Membuat field pencarian <br> Membuat daftar mitra dengan pagination <br> Filter kategori mitra: Yayasan, UMKM , K/L, DUDI <br> Filter bidang: Kemandirian pangan, Energi dan sumber daya alam, dll. <br></td>
+            <td>Membuat filter <br> Membuat field pencarian <br> Membuat daftar mitra dengan pagination <br> Filter kategori mitra: Yayasan, UMKM , K/L, DUDI <br> Filter bidang: Kemandirian pangan, Energi dan sumber daya alam, dll. <br></td>
         </tr>
         <tr>
-            <td>1</td>
+            <td>2</td>
             <td>Halaman Detail Mitra</td>
             <td>Komponen Profil Mitra <br> Komponen Proposal <br> Detail Proposal <br></td>
         </tr>
@@ -132,26 +132,28 @@
 
     <h2>DETAIL FITUR</h2>
 
+    <h3> 1. Filter</h3>
+    <h4> Informasi Singkat </h4>
     <table>
         <tr>
-            <th>Informasi singkat</th>
             <th>Target Release</th>
+            <td>1.0</td>
         </tr>
         <tr>
-            <td>Epic</td>
+            <th>Epic</th>
             <td>Mitra</td>
         </tr>
         <tr>
-            <td>Short Explanation</td>
+            <th>Short Explanation</th>
             <td>Fitur untuk user/mitra dapat melakukan pencarian berdasarkan kriteria yang diinginkan</td>
         </tr>
         <tr>
-            <td>Document Status</td>
+            <th>Document Status</th>
             <td>Draft</td>
         </tr>
     </table>
 
-    <h2>REQUIREMENT</h2>
+    <h2>REQUIREMENET</h2>
 
     <table>
         <tr>
@@ -180,18 +182,19 @@
     <table>
         <tr>
             <th>No</th>
+            <th>Scenario</th>
             <th>Type</th>
             <th>Description</th>
             <th>Validation</th>
         </tr>
         <!-- Your data rows go here -->
-        <td>
+        <tr>
+            <td>1</td>
             <td>As a Mitra Ikomerz Ilmu Komputer IPB <br>I want login as mitra <br> So i can search and acces every mitra features</td >
-        </td>
-        <td>1</td>
-        <td>Positive</td>
-        <td>Mitra Ikomerz Ilmu Komputer IPB mendapatkan hasil pencarian sesuai filter</th>
-        <td>Validation</td>
+            <td>Postive</td>  
+            <td>Mitra Ikomerz Ilmu Komputer IPB mendapatkan hasil pencarian sesuai filter</th>
+        </tr>
+
     </table>
 
     <h2>User Interface & Design</h2>
@@ -220,8 +223,3 @@
 
 </body>
 </html>
-
-</body>
-</html>
-
-
