@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -166,7 +165,7 @@
         <tr>
             <td>1</td>
             <td> As a Mitra <br> I Want Search category as user <br> So I Can search and acces every Mitra features</td>
-            <td>Must Have</th>
+            <td>Must Have</td>
             <td>Form filter mitra sebagai berikut <br> 1. Filter kategori Mitra* <br> 2. Filter Bidang* <br> 3. Filter Pengajuan Proposal*</td>
         </tr>
         <tr>
