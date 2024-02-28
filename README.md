@@ -152,7 +152,7 @@
         </tr>
     </table>
 
-    <h2>REQUIREMENET</h2>
+    <h2>REQUIREMENT</h2>
 
     <table>
         <tr>
@@ -191,7 +191,7 @@
             <td>1</td>
             <td>As a Mitra Ikomerz Ilmu Komputer IPB <br>I want login as mitra <br> So i can search and acces every mitra features</td >
             <td>Postive</td>  
-            <td>Mitra Ikomerz Ilmu Komputer IPB mendapatkan hasil pencarian sesuai filter</th>
+            <td>Mitra Ikomerz Ilmu Komputer IPB mendapatkan hasil pencarian sesuai filter</td>
         </tr>
 
     </table>
