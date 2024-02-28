@@ -1,11 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Documentation</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
     <h1>MF BACKOFFICE BATCH 6</h1>
 
     <table>
         <tr>
-            <td>No</td>
-            <td>Nama</td>
-            <td>Role</td>
-            <td>Nama Mentor</td>
+            <th>No</th>
+            <th>Nama</th>
+            <th>Role</th>
+            <th>Nama Mentor</th>
         </tr>
         <!-- Your data rows go here -->
         <tr>
@@ -84,7 +107,6 @@
             <th>Mitra</th>
             <th>Bisa melihat daftar dan detail proposal 2024 <br> Bisa melihat daftar dan detail proposal 2023 <br> Bisa melihat daftar dan detail proposal 2022 <br> Bisa melihat daftar dan detail proposal 2021</th>
         </tr>
-        
     </table>
 
     <h2>FITUR YANG DIKEMBANGKAN</h2>
@@ -99,9 +121,13 @@
         <tr>
             <th>1</th>
             <th>Halaman Daftar Mitra</th>
-            <th>-Membuat filer <br> Membuat field pencarian <br> Membuat daftar mitra dengan pagination <br> Filter kategori mitra: Yayasan, UMKM , K/L, DUDI <br> Filter bidang: Kemandirian pangan, Energi dan sumber daya alam, dll. <br</th>
+            <th>Membuat filer <br> Membuat field pencarian <br> Membuat daftar mitra dengan pagination <br> Filter kategori mitra: Yayasan, UMKM , K/L, DUDI <br> Filter bidang: Kemandirian pangan, Energi dan sumber daya alam, dll. <br</th>
         </tr>
-        
+        <tr>
+            <th>1</th>
+            <th>Halaman Detail Mitra</th>
+            <th>Komponen Profil Mitra <br> Komponen Proposal <br> Detail Proposal <br></th>
+        </tr>
     </table>
 
     <h2>DETAIL FITUR</h2>
@@ -137,9 +163,15 @@
         <!-- Your data rows go here -->
         <tr>
             <th>1</th>
-            <th>As a MF intradikti</th>
-            <th>Priority</th>
-            <th>Notes</th>
+            <th> As a Mitra <br> I Want Search category as user <br> So I Can search and acces every Mitra features</th>
+            <th>Must Have</th>
+            <th>Form filter mitra sebagai berikut <br> 1. Filter kategori Mitra* <br> 2. Filter Bidang* <br> 3. Filter Pengajuan Proposal*</th>
+        </tr>
+        <tr>
+            <th>2</th>
+            <th> As a Admin <br> I Want Search category as Admin <br> So I Can search and acces every Admin features</th>
+            <th>Must Have</th>
+            <th>Form filter mitra sebagai berikut <br> 1. Filter kategori Mitra* <br> 2. Filter Bidang* <br> 3. Filter Pengajuan Proposal*</th>
         </tr>
     </table>
 
@@ -149,19 +181,6 @@
 
 </body>
 </html>
-
-
-</body>
-</html>
-
-
-
-
-
-
-
-
-
 
 
 
