@@ -106,6 +106,11 @@
             <td>Mitra</td>
             <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa melihat daftar dan detail proposal 2023 <br> Bisa melihat daftar dan detail proposal 2022 <br> Bisa melihat daftar dan detail proposal 2021</td>
         </tr>
+        <tr>
+            <td>2</td>
+            <td>Perguruan Tinggi</td>
+            <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa melihat daftar dan detail proposal 2023 <br> Bisa melihat daftar dan detail proposal 2022 <br> Bisa melihat daftar dan detail proposal 2021</td>
+        </tr>
     </table>
 
     <h2>FITUR YANG DIKEMBANGKAN</h2>
@@ -147,7 +152,7 @@
             <td>Fitur untuk user/mitra dapat melakukan pencarian berdasarkan kriteria yang diinginkan</td>
         </tr>
         <tr>
-            <th>Document Status</th>
+            <th>Documentt Status</th>
             <td>Draft</td>
         </tr>
     </table>
@@ -192,6 +197,7 @@
             <td>As a Mitra Ikomerz Ilmu Komputer IPB <br>I want login as mitra <br> So i can search and acces every mitra features</td >
             <td>Postive</td>  
             <td>Mitra Ikomerz Ilmu Komputer IPB mendapatkan hasil pencarian sesuai filter</td>
+            <td>content</td>
         </tr>
 
     </table>
