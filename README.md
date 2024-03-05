@@ -92,6 +92,13 @@
         </tr>
     </table>
 
+    <h2>Tentang Backoffice KedaiReka</h2>
+    <h3>Pendahuluan</h3>
+    <h3>Manfaat</h3>
+    <h3>Kelebihan</h3>
+    <h3>Kekurangan</h3>
+
+
     <h2>ROLES</h2>
 
     <table>
@@ -152,7 +159,7 @@
             <td>Fitur untuk user/mitra dapat melakukan pencarian berdasarkan kriteria yang diinginkan</td>
         </tr>
         <tr>
-            <th>Documentt Status</th>
+            <th>Document Status</th>
             <td>Draft</td>
         </tr>
     </table>
