@@ -92,10 +92,32 @@
         </tr>
     </table>
 
+    <h2>Daftar Isi</h2>
+    <h3>BAB 1.Tentang Backoffice KedaiReka</h3>
+    1.1 Pendahuluan
+    1.2 Manfaat
+    1.3 Kelebihan
+    1.4 Kekurangan
+    <h3>BAB 2. Menu Backoffice KedaiReka</h3>
+    2.1 Filter
+        2.1.1 Penjelasan Fitur
+        2.1.2 User Manual
+    2.2 Field pencarian
+        2.2.1 Penjelasan Fitur
+        2.2.2 User Mannual <a href="#um">User Manual</a>
+    
+
+
+
+
+    <h3>- Tentang Backoffice KedaiReka</h3>
+    <h3>- Tentang Backoffice KedaiReka</h3>
+    <h3>- Tentang Backoffice KedaiReka</h3>
+    
+
     <h2>Tentang Backoffice KedaiReka</h2>
     <h3>Pendahuluan</h3>
-        Back Office Kedaireka
-        Dirancang khusus untuk menyederhanakan dan mengoptimalkan pengadministrasian program di lingkungan kedaireka. Portal memudahkan pengajuan dan proses seleksi oleh semua pihak yang terlibat dalam manajemen program
+        Back Office Kedaireka Dirancang khusus untuk menyederhanakan dan mengoptimalkan pengadministrasian program di lingkungan kedaireka. Portal memudahkan pengajuan dan proses seleksi oleh semua pihak yang terlibat dalam manajemen program
     <h3>Manfaat</h3>
     test 1 2 3
     <h3>Kelebihan</h3>
@@ -110,7 +132,8 @@
     <h3>Kekurangan</h3>
 
 
-    <h2>ROLES</h2>
+    <h2>MENU BACKOFFICE KEDAIREKA</h2>
+    <h3></h3>
 
     <table>
         <tr>
@@ -152,7 +175,7 @@
         </tr>
     </table>
 
-    <h2>DETAIL FITUR</h2>
+    <h2 id="um">DETAIL FITUR</h2>
 
     <h3> 1. Filter</h3>
     <h4> Informasi Singkat </h4>
