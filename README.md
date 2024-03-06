@@ -20,12 +20,12 @@
 </head>
 <body>
 
-    <h1><a href="#um">Daftar Isi</a></h1>
-        <h2><a id="daftar-isi" href="#um">BAB 1. Tentang Backoffice KedaiReka</a></h2>
-            <h3><a href="#um">1.1 Pendahuluan</a></h3>
-            <h3><a href="#um">1.2 Manfaat</a></h3>
-            <h3><a href="#um">1.3 Kelebihan</a></h3>
-            <h3><a href="#um">1.4 Kekurangan</a></h3>
+    <h3><a href="#um">Daftar Isi</a></h3>
+        <h4><a id="daftar-isi" href="#um">BAB 1. Tentang Backoffice KedaiReka</a></h4   >
+            <h5><a href="#um">1.1 Pendahuluan</a></h5>
+            <h5><a href="#um">1.2 Manfaat</a></h5>
+            <h5><a href="#um">1.3 Kelebihan</a></h5>
+            <h5><a href="#um">1.4 Kekurangan</a></h5>
         <h2><a href="#um">BAB 2. Menu Backoffice KedaiReka</a></h2>
             <h3><a href="#um">2.1 Filter</a></h3>
                 <li>2.1.1 Pendahuluan</li>
@@ -266,6 +266,11 @@
             <td>Fullstack Developer</td>
             <td>Dimas Ahmad</td>
         </tr>
+    <div>
+        <div class="menu-list">
+            di
+        </div>
+    </div>
     </table>
 </body>
 </html>
