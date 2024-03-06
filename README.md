@@ -101,6 +101,15 @@
     <h3>Kelebihan</h3>
     <h3>Kekurangan</h3>
 
+    <h2>Tentang Backoffice KedaiReka</h2>
+    <h3>Pendahuluan
+        Back Office Kedaireka
+        Dirancang khusus untuk menyederhanakan dan mengoptimalkan pengadministrasian program di lingkungan kedaireka. Portal memudahkan pengajuan dan proses seleksi oleh semua pihak yang terlibat dalam manajemen program
+    </h3>
+    <h3>Manfaat</h3>
+    <h3>Kelebihan</h3>
+    <h3>Kekurangan</h3>
+
 
     <h2>ROLES</h2>
 
