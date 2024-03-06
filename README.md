@@ -152,28 +152,6 @@
             <th>User Category</th>
             <th>User Main Activity</th>
         </tr>
-
-    <h2>FITUR YANG DIKEMBANGKAN</h2>
-
-    <table>
-        <tr>
-            <th>No</th>
-            <th>Epic</th>
-            <th>Feature</th>
-        </tr>
-        <!-- Your data rows go here -->
-        <tr>
-            <td>1</td>
-            <td>Halaman Daftar Mitra</td>
-            <td>Membuat filter <br> Membuat field pencarian <br> Membuat daftar mitra dengan pagination <br> Filter kategori mitra: Yayasan, UMKM , K/L, DUDI <br> Filter bidang: Kemandirian pangan, Energi dan sumber daya alam, dll. <br></td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Halaman Detail Mitra</td>
-            <td>Komponen Profil Mitra <br> Komponen Proposal <br> Detail Proposal <br></td>
-        </tr>
-    </table>
-
     <h2>REQUIREMENT</h2>
 
     <table>
@@ -242,6 +220,25 @@
     <script>
         // You can add JavaScript code here if needed
     </script>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Epic</th>
+            <th>Feature</th>
+        </tr>
+        <!-- Your data rows go here -->
+        <tr>
+            <td>1</td>
+            <td>Halaman Daftar Mitra</td>
+            <td>Membuat filter <br> Membuat field pencarian <br> Membuat daftar mitra dengan pagination <br> Filter kategori mitra: Yayasan, UMKM , K/L, DUDI <br> Filter bidang: Kemandirian pangan, Energi dan sumber daya alam, dll. <br></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Halaman Detail Mitra</td>
+            <td>Komponen Profil Mitra <br> Komponen Proposal <br> Detail Proposal <br></td>
+        </tr>
+    </table>
 
     <h1>MF BACKOFFICE BATCH 6</h1>
 
