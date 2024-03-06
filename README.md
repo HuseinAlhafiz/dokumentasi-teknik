@@ -20,100 +20,22 @@
 </head>
 <body>
 
-    <h1>MF BACKOFFICE BATCH 6</h1>
-
-    <table>
-        <tr>
-            <th>No</th>
-            <th>Nama</th>
-            <th>Role</th>
-            <th>Nama Mentor</th>
-        </tr>
-        <!-- Your data rows go here -->
-        <tr>
-            <td>1.</td>
-            <td>Ahmad Jalu F. N. H.	 </td>
-            <td>Fullstack Developer</td>
-            <td>M. Hilmy.</td>
-        </tr>
-        <tr>
-            <td>2.</td>
-            <td>Fullstack Developer </td>
-            <td>Techincal Writer</td>
-            <td>M. Zulkifli</td>
-        </tr>
-        <tr>
-            <td>3.</td>
-            <td>Bintang Rahmatullah </td>
-            <td>Fullstack Developer</td>
-            <td>M. Hilmy</td>
-        </tr>
-        <tr>
-            <td>4.</td>
-            <td>Husein Alhafiz </td>
-            <td>Techincal Writer</td>
-            <td>Rian AP.</td>
-        </tr>
-        <tr>
-            <td>5.</td>
-            <td>Michael Mervin R </td>
-            <td>Fullstack Developer</td>
-            <td>Rian AP.</td>
-        </tr>
-        <tr>
-            <td>6.</td>
-            <td>M. Fadly Febrian </td>
-            <td>Quality Assurancer</td>
-            <td>Rian AP.</td>
-        </tr>
-        <tr>
-            <td>7.</td>
-            <td>M. Ibnu Al Hanif </td>
-            <td>Quality Assurance</td>
-            <td>Rian AP.</td>
-        </tr>
-        <tr>
-            <td>8.</td>
-            <td>Novita Rahmadhani </td>
-            <td>UI/UX Engineer</td>
-            <td>Rian AP.</td>
-        </tr>
-        <tr>
-            <td>9.</td>
-            <td>Reza Irvando </td>
-            <td>Fullstack Developer</td>
-            <td>Dimas Ahmad</td>
-        </tr>
-        <tr>
-            <td>10.</td>
-            <td>Umar Hadi Mukti </td>
-            <td>Fullstack Developer</td>
-            <td>Dimas Ahmad</td>
-        </tr>
-    </table>
-
-    <h2>Daftar Isi</h2>
-    <h3>BAB 1.Tentang Backoffice KedaiReka</h3>
-    1.1 Pendahuluan
-    1.2 Manfaat
-    1.3 Kelebihan
-    1.4 Kekurangan
-    <h3>BAB 2. Menu Backoffice KedaiReka</h3>
-    2.1 Filter
-        2.1.1 Penjelasan Fitur
-        2.1.2 User Manual
-    2.2 Field pencarian
-        2.2.1 Penjelasan Fitur
-        2.2.2 User Mannual <a href="#um">User Manual</a>
-    
 
 
-
-
-    <h3>- Tentang Backoffice KedaiReka</h3>
-    <h3>- Tentang Backoffice KedaiReka</h3>
-    <h3>- Tentang Backoffice KedaiReka</h3>
-    
+    <h1><a href="#um">Daftar Isi</a></h1>
+        <ol><a href="#um">BAB 1. Tentang Backoffice KedaiReka</a></ol>
+            <li>1.1 Pendahuluan</li>
+            <li>1.2 Manfaat</li>
+            <li>1.3 Kelebihan</li>
+            <li>1.4 Kekurangan</li>
+        <ol><a href="#um">BAB 2. Menu Backoffice KedaiReka</a></ol>
+            <ol><a href="#um">2.1 Filter</a></ol>
+                <li>2.1.1 Pendahuluan</li>
+                <li>2.1.2 User Manual</li>
+            <ol><a href="#um">2.2 Field Pencarian</a></ol>
+                <li><a href="#um">2.2.1 Pendahuluan</a></li>
+                <li><a href="#um">2.2.2 User Manual</a></li>
+                
 
     <h2>Tentang Backoffice KedaiReka</h2>
     <h3>Pendahuluan</h3>
@@ -267,5 +189,76 @@
         // You can add JavaScript code here if needed
     </script>
 
+    <h1>MF BACKOFFICE BATCH 6</h1>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Nama</th>
+            <th>Role</th>
+            <th>Nama Mentor</th>
+        </tr>
+        <!-- Your data rows go here -->
+        <tr>
+            <td>1.</td>
+            <td>Ahmad Jalu F. N. H.	 </td>
+            <td>Fullstack Developer</td>
+            <td>M. Hilmy.</td>
+        </tr>
+        <tr>
+            <td>2.</td>
+            <td>Fullstack Developer </td>
+            <td>Techincal Writer</td>
+            <td>M. Zulkifli</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>Bintang Rahmatullah </td>
+            <td>Fullstack Developer</td>
+            <td>M. Hilmy</td>
+        </tr>
+        <tr>
+            <td>4.</td>
+            <td>Husein Alhafiz </td>
+            <td>Techincal Writer</td>
+            <td>Rian AP.</td>
+        </tr>
+        <tr>
+            <td>5.</td>
+            <td>Michael Mervin R </td>
+            <td>Fullstack Developer</td>
+            <td>Rian AP.</td>
+        </tr>
+        <tr>
+            <td>6.</td>
+            <td>M. Fadly Febrian </td>
+            <td>Quality Assurancer</td>
+            <td>Rian AP.</td>
+        </tr>
+        <tr>
+            <td>7.</td>
+            <td>M. Ibnu Al Hanif </td>
+            <td>Quality Assurance</td>
+            <td>Rian AP.</td>
+        </tr>
+        <tr>
+            <td>8.</td>
+            <td>Novita Rahmadhani </td>
+            <td>UI/UX Engineer</td>
+            <td>Rian AP.</td>
+        </tr>
+        <tr>
+            <td>9.</td>
+            <td>Reza Irvando </td>
+            <td>Fullstack Developer</td>
+            <td>Dimas Ahmad</td>
+        </tr>
+        <tr>
+            <td>10.</td>
+            <td>Umar Hadi Mukti </td>
+            <td>Fullstack Developer</td>
+            <td>Dimas Ahmad</td>
+        </tr>
+    </table>
 </body>
 </html>
