@@ -20,13 +20,13 @@
 </head>
 <body>
 
-    <h3><a href="#um">Daftar Isi</a></h3>
+    <h3><a href="#um">DAFTAR ISI</a></h3>
         <h3><a id="daftar-isi" href="#um">BAB 1. TENTANG BACKOFFICE KEDAIREKA</a></h3>
             <li>1.1 Pendahuluan</li>
             <li>1.2 Manfaat</li>
-            <li>>1.3 Kelebihan</li>
+            <li>1.3 Kelebihan</li>
             <li>1.4 Kekurangan</li>
-        <h2><a href="#um">BAB 2. MENU BACKOFFICE KEDAIREKA</a></h2>
+        <h3><a href="#um">BAB 2. MENU BACKOFFICE KEDAIREKA</a></h3>
             <h3><a href="#um">2.1 Filter</a></h3>
                 <li>2.1.1 Pendahuluan</li>
                 <li>2.1.2 User Manual</li>
