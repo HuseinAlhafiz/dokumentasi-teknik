@@ -22,10 +22,10 @@
 
     <h1><a href="#um">Daftar Isi</a></h1>
         <h2><a id="daftar-isi" href="#um">BAB 1. Tentang Backoffice KedaiReka</a></h2>
-            <li>1.1 Pendahuluan</li>
-            <li>1.2 Manfaat</li>
-            <li>1.3 Kelebihan</li>
-            <li>1.4 Kekurangan</li>
+            <h3><a href="#um">1.1 Pendahuluan</a></h3>
+            <h3><a href="#um">1.2 Manfaat</a></h3>
+            <h3><a href="#um">1.3 Kelebihan</a></h3>
+            <h3><a href="#um">1.4 Kekurangan</a></h3>
         <h2><a href="#um">BAB 2. Menu Backoffice KedaiReka</a></h2>
             <h3><a href="#um">2.1 Filter</a></h3>
                 <li>2.1.1 Pendahuluan</li>
