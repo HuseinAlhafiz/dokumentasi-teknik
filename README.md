@@ -31,8 +31,17 @@
                 <li>2.1.1 Pendahuluan</li>
                 <li>2.1.2 User Manual</li>
             <h3><a href="#um">2.2 Field Pencarian</a></h3>
-                <li><a href="#um">2.2.1 Pendahuluan</a></li>
-                <li><a href="#um">2.2.2 User Manual</a></li>
+                <li>2.2.1 Pendahuluan</li>
+                <li>2.2.2 User Manual</li>
+            <h3><a href="#um">2.3 Komponen Profil Mitra</a></h3>
+                <li>2.3.1 Pendahuluan</li>
+                <li>2.3.2 User Manual</li>
+            <h3><a href="#um">2.4 Komponen Proposal</a></h3>
+                <li>2.4.1 Pendahuluan</li>
+                <li>2.4.2 User Manual</li>
+            <h3><a href="#um">2.5 detail proposal</a></h3>
+                <li>2.5.1 Pendahuluan</li>
+                <li>2.5.2 User Manual</li>
                 
 
     <h2>Tentang Backoffice KedaiReka</h2>
