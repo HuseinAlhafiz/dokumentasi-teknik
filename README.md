@@ -21,12 +21,12 @@
 <body>
 
     <h3><a href="#um">Daftar Isi</a></h3>
-        <h4><a id="daftar-isi" href="#um">BAB 1. Tentang Backoffice KedaiReka</a></h4   >
-            <h5><a href="#um">1.1 Pendahuluan</a></h5>
-            <h5><a href="#um">1.2 Manfaat</a></h5>
-            <h5><a href="#um">1.3 Kelebihan</a></h5>
-            <h5><a href="#um">1.4 Kekurangan</a></h5>
-        <h2><a href="#um">BAB 2. Menu Backoffice KedaiReka</a></h2>
+        <h3><a id="daftar-isi" href="#um">BAB 1. TENTANG BACKOFFICE KEDAIREKA</a></h3>
+            <li>1.1 Pendahuluan</li>
+            <li>1.2 Manfaat</li>
+            <li>>1.3 Kelebihan</li>
+            <li>1.4 Kekurangan</li>
+        <h2><a href="#um">BAB 2. MENU BACKOFFICE KEDAIREKA</a></h2>
             <h3><a href="#um">2.1 Filter</a></h3>
                 <li>2.1.1 Pendahuluan</li>
                 <li>2.1.2 User Manual</li>
@@ -48,10 +48,11 @@
     <h3>Pendahuluan</h3>
         Back Office Kedaireka Dirancang khusus untuk menyederhanakan dan mengoptimalkan pengadministrasian program di lingkungan kedaireka. Portal memudahkan pengajuan dan proses seleksi oleh semua pihak yang terlibat dalam manajemen program
     <h3>Manfaat</h3>
-    test 1 2 3
+        Backoffice KedaiReka memiliki manfaat (....)
     <h3>Kelebihan</h3>
+        Backoffice KedaiReka memiliki kelebihan (....)
     <h3>Kekurangan</h3>
-
+        Backoffice KedaiReka memiliki kekurangan (....)
     <h2>ERD</h2>
     <h3>Pendahuluan</h3>
         Back Office Kedaireka
