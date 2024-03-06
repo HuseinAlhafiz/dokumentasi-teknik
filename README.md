@@ -16,6 +16,9 @@
         th {
             background-color: #f2f2f2;
         }
+        #daftar-isi{
+            padding-left: 10px;
+        }
     </style>
 </head>
 <body>
@@ -23,12 +26,12 @@
 
 
     <h1><a href="#um">Daftar Isi</a></h1>
-        <ol><a href="#um">BAB 1. Tentang Backoffice KedaiReka</a></ol>
+        <h2><a id="daftar-isi" href="#um">BAB 1. Tentang Backoffice KedaiReka</a></h2>
             <li>1.1 Pendahuluan</li>
             <li>1.2 Manfaat</li>
             <li>1.3 Kelebihan</li>
             <li>1.4 Kekurangan</li>
-        <ol><a href="#um">BAB 2. Menu Backoffice KedaiReka</a></ol>
+        <h2><a href="#um">BAB 2. Menu Backoffice KedaiReka</a></h2>
             <ol><a href="#um">2.1 Filter</a></ol>
                 <li>2.1.1 Pendahuluan</li>
                 <li>2.1.2 User Manual</li>
