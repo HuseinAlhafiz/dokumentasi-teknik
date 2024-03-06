@@ -29,7 +29,7 @@
         <h3><a href="#um">BAB 2. MENU BACKOFFICE KEDAIREKA</a></h3>
             <h3><a href="#um">2.1 Filter</a></h3>
                 <li>2.1.1 Pendahuluan</li>
-                <li>2.1.2 User Manual</li>
+                <li>2.1.2 User Manual</li> 
             <h3><a href="#um">2.2 Field Pencarian</a></h3>
                 <li>2.2.1 Pendahuluan</li>
                 <li>2.2.2 User Manual</li>
@@ -44,7 +44,7 @@
                 <li>2.5.2 User Manual</li>
                 
 
-    <h2>Tentang Backoffice KedaiReka</h2>
+    <h2 id="um">Tentang Backoffice KedaiReka</h2>
     <h3>Pendahuluan</h3>
         Back Office Kedaireka Dirancang khusus untuk menyederhanakan dan mengoptimalkan pengadministrasian program di lingkungan kedaireka. Portal memudahkan pengajuan dan proses seleksi oleh semua pihak yang terlibat dalam manajemen program
     <h3>Manfaat</h3>
@@ -56,56 +56,10 @@
     <h2>ERD</h2>
     <h3>Pendahuluan</h3>
         Back Office Kedaireka
-       
-    <h3>Manfaat</h3>
-    <h3>Kelebihan</h3>
-    <h3>Kekurangan</h3>
 
 
     <h2>MENU BACKOFFICE KEDAIREKA</h2>
-    <h3></h3>
-
-    <table>
-        <tr>
-            <th>No</th>
-            <th>User Category</th>
-            <th>User Main Activity</th>
-        </tr>
-        <!-- Your data rows go here -->
-        <tr>
-            <td>1</td>
-            <td>Mitra</td>
-            <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa melihat daftar dan detail proposal 2023 <br> Bisa melihat daftar dan detail proposal 2022 <br> Bisa melihat daftar dan detail proposal 2021</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Perguruan Tinggi</td>
-            <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa melihat daftar dan detail proposal 2023 <br> Bisa melihat daftar dan detail proposal 2022 <br> Bisa melihat daftar dan detail proposal 2021</td>
-        </tr>
-    </table>
-
-    <h2>FITUR YANG DIKEMBANGKAN</h2>
-
-    <table>
-        <tr>
-            <th>No</th>
-            <th>Epic</th>
-            <th>Feature</th>
-        </tr>
-        <!-- Your data rows go here -->
-        <tr>
-            <td>1</td>
-            <td>Halaman Daftar Mitra</td>
-            <td>Membuat filter <br> Membuat field pencarian <br> Membuat daftar mitra dengan pagination <br> Filter kategori mitra: Yayasan, UMKM , K/L, DUDI <br> Filter bidang: Kemandirian pangan, Energi dan sumber daya alam, dll. <br></td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Halaman Detail Mitra</td>
-            <td>Komponen Profil Mitra <br> Komponen Proposal <br> Detail Proposal <br></td>
-        </tr>
-    </table>
-
-    <h2 id="um">DETAIL FITUR</h2>
+    <h2>DETAIL FITUR</h2>
 
     <h3> 1. Filter</h3>
     <h4> Informasi Singkat </h4>
@@ -125,6 +79,98 @@
         <tr>
             <th>Document Status</th>
             <td>Draft</td>
+        </tr>
+    </table>
+    <h2>REQUIREMENT</h2>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>User Story</th>
+            <th>Priority</th>
+            <th>Notes</th>
+        </tr>
+        <!-- Your data rows go here -->
+        <tr>
+            <td>1</td>
+            <td> As a Mitra <br> I Want Search category as user <br> So I Can search and acces every Mitra features</td>
+            <td>Must Have</td>
+            <td>Form filter mitra sebagai berikut <br> 1. Filter kategori Mitra* <br> 2. Filter Bidang* <br> 3. Filter Pengajuan Proposal*</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td> As a Admin <br> I Want Search category as Admin <br> So I Can search and acces every Admin features</td>
+            <td>Must Have</td>
+            <td>Form filter mitra sebagai berikut <br> 1. Filter kategori Mitra* <br> 2. Filter Bidang* <br> 3. Filter Pengajuan Proposal*</td>
+        </tr>
+    </table>
+
+    <h2>Scenario</h2>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Scenario</th>
+            <th>Type</th>
+            <th>Description</th>
+            <th>Validation</th>
+        </tr>
+        <!-- Your data rows go here -->
+        <tr>
+            <td>1</td>
+            <td>As a Mitra Ikomerz Ilmu Komputer IPB <br>I want login as mitra <br> So i can search and acces every mitra features</td >
+            <td>Postive</td>  
+            <td>Mitra Ikomerz Ilmu Komputer IPB mendapatkan hasil pencarian sesuai filter</td>
+            <td>content</td>
+        </tr>
+
+    </table>
+
+    <h2>User Interface & Design</h2>
+        
+    <table>
+        <tr>
+            <th>Description</th>
+            <th>Login</th>
+        </tr>
+        <tr>
+            <td>Login Page</td>
+            <td>Image</td>
+        </tr>
+        <tr>
+            <td>Link figma</td>
+            <td>ini ceritanya link figma</td>
+        </tr>
+        <tr>
+            <td>API Mapping</td>
+            <td>GET API Endpoint</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th>No</th>
+            <th>User Category</th>
+            <th>User Main Activity</th>
+        </tr>
+
+    <h2>FITUR YANG DIKEMBANGKAN</h2>
+
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Epic</th>
+            <th>Feature</th>
+        </tr>
+        <!-- Your data rows go here -->
+        <tr>
+            <td>1</td>
+            <td>Halaman Daftar Mitra</td>
+            <td>Membuat filter <br> Membuat field pencarian <br> Membuat daftar mitra dengan pagination <br> Filter kategori mitra: Yayasan, UMKM , K/L, DUDI <br> Filter bidang: Kemandirian pangan, Energi dan sumber daya alam, dll. <br></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Halaman Detail Mitra</td>
+            <td>Komponen Profil Mitra <br> Komponen Proposal <br> Detail Proposal <br></td>
         </tr>
     </table>
 
