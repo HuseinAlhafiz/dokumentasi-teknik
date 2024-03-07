@@ -170,7 +170,7 @@
             <th>Feature</th>
         </tr>
         <!-- Your data rows go here -->
-        <!-- <tr>
+        <tr>
             <td>1</td>
             <td>Halaman Daftar Mitra</td>
             <td>Membuat filter <br> Membuat field pencarian <br> Membuat daftar mitra dengan pagination <br> Filter kategori mitra: Yayasan, UMKM , K/L, DUDI <br> Filter bidang: Kemandirian pangan, Energi dan sumber daya alam, dll. <br></td>
@@ -180,7 +180,7 @@
             <td>Halaman Detail Mitra</td>
             <td>Komponen Profil Mitra <br> Komponen Proposal <br> Detail Proposal <br></td>
         </tr>
-    </table> -->
+    </table>
 
     <h1>MF BACKOFFICE BATCH 6</h1>
 
@@ -258,5 +258,3 @@
         </div>
     </div>
     </table>
-</body>
-</html>
