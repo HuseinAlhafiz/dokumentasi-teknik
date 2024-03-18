@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Project Documentation</title>
+        <style>
+        body {
+            margin-left: 15%;
+            margin-right: 15%;
+            margin-top: 10px;
+            margin-bottom: 10rem;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .teks{
+            margin-left: 15px;
+        }
+    </style>
+    </head>
+    <body>
+
+        <h1>MF BACKOFFICE BATCH 6</h1>
+        <h2>1. INFORMASI UMUM</h2>
+        <h3>Person In Change</h3>
+        <table>
+            <tr>
+                <th>Document Owner</th>
+                <td>Dimas Ahmad, M. Hilmy, M. Zulkifli, Rian A.P, Husein Alhafiz </td>
+            </tr>
+            <tr>
+                <th>Designer</th>
+                <td>Novita Rahmadhani</td>
+            </tr>
+            <tr>
+                <th>Developers</th>
+                <td>Ahmad Jalu F. N. H, Bintang Rahmatullah, Michael Mervin R,
+                    Reza Irvando, Umar Hadi Mukti</td>
+            </tr>
+            <tr>
+                <th>Quality Assurance</th>
+                <td>M. Fadly Febrian, M. Ibnu Al Hanif </td>
+            </tr>
+            <tr>
+                <th>Delivery Date</th>
+                <td>-</td>
+            </tr>
+            <tr>
+                <th>Sign off Date</th>
+                <td>-</td>
+            </tr>
+        </table>
+
+        <h3>Riwayat Revisi</h3>
+        <table>
+            <tr>
+                <th>Author</th>
+                <th>Revision Notes</th>
+            </tr>
+            <tr>
+                <td>Nama Mentee</td>
+                <td>Initial Version</td>
+            </tr>
+            <tr>
+                <td>Nama Mentee</td>
+                <td>Initial Version</td>
+            </tr>
+            <tr>
+                <td>Nama Mentee</td>
+                <td>Initial Version</td>
+            </tr>
+        </table> 
+
+        <h3>Petunjuk Instalasi</h3>
+        <h4>Laravel Project Setup Guide</h4>
+
+            This guide will walk you through the steps required to set up a Laravel project on your local machine. Laravel is a popular PHP framework for building web applications.<br><br>
+            
+            <b>Prerequisites</b><br>
+            
+            Before you begin, make sure you have the following installed on your machine:<br>
+            
+            - required PHP v8.0 or greater<br>
+            - required Composer v2.5.8 or greater<br>
+            - required Node.js v18 (with npm or yarn) or greater<br>
+            - required Git v2.34.1 or greater<br>
+            - optional Docker v25.0.2 or greater<br><br>
+            
+            <b>Getting Started</b><br>
+            
+            <p><b>1. Clone the repository</b></p>
+            <p class="teks">sh <br>git clone "link repository </p>
+
+            <p><b>2. Navigate to the project directory</b></p>
+            <p class="teks">sh <br>cd "project directory" </p>
+            
+            <p><b>3. Install PHP dependencies using composer</b></p>
+            <p class="teks">sh <br>cd composer install </p>
+        
+            <p><b>4. Copy .env.example to .env</b></p>
+            <p class="teks">sh <br>cp .env.example .env</p>
+            
+            <p><b>5. Generate application key</b></p> 
+            <p class="teks">sh <br>php artisan key:generate</p>
+            
+            <p><b>6. Install javascript using npm or yarn</b></p>
+            <p class="teks">sh <br>npm install<br>or<br>yarn install</p>
+
+            <p><b>7. Compile assets</b></p>
+            <p class="teks">sh <br>for local development<br>npm run dev<br>or<br>yarn dev</p>
+    
+            <p><b>8. Setup your database configuration file. If your are using docker, you can skip this step.</b></p>
+            <p class="teks">sh <br>
+                DB_CONNECTION=mysql<br>DB_HOST=127.0.0.1<br>DB_PORT=3306<br>DB_DATABASE=your_database_name<br>DB_USERNAME=your_database_username<br>DB_PASSWORD=your_database_password<br></p>            
+            
+            <p><b>9. Migrate the database</b></p>
+            <p class="teks">sh <br>php artisan migrate</p>
+            
+            <p><b>10. Serve application</b></p>
+            <p class="teks">sh <br>php artisan serve</p>
+
+            <p><b>Additional Configuration</b></p>
+            <p class="teks">- Environment Configuration: Update the .env file as per your environment settings (e.g., APP_DEBUG, APP_URL, etc.).<br>- Database Configuration: Modify the database configuration in the .env file according to your requirements.<br>- Cache Configuration: You can configure caching options in the .env file.<br>- Queue Configuration: If your application uses queues, configure the queue driver in the .env file.<br>
+            </p>  
+
+            <p><b>Run Using Docker</b></p>
+            
+            <p>For those of u who prefer using docker when serving the application, please follow these steps below:</p>
+            
+            <p>1. Follow the prior step until you are at step [7](#7)<br>2. Start the docker container<br>
+            </p>  
+            
+            <p class="teks">sh<br># run usign docker<br>docker compose up -d<br># or using docker-compose<br>docker-compose up -d<br></p>            
+            3. Migrate the database using sail<br>
+            
+            <p class="teks">sh <br>./sail artisan migrate</p>            
+
+
+
+        <h2>2. LATAR BELAKANG</h2>
+        <p class="teks">Sebagai bagian dari kerangka kebijakan Merdeka Belajar Kampus Merdeka (MBKM), Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi mengimplementasikan berbagai program untuk membangun ekosistem yang
+            mendorong peningkatan mutu dan relevansi pendidikan tinggi di Indonesia. Termasuk diantaranya adalah penawaran berbagai program pendanaan berbasis kompetisi.<br><br>
+            Berbagai data dan informasi di lapangan menunjukkan bahwa sejumlah penelitian yang diselenggarakan di perguruan tinggi telah menghasilkan luaran yang memiliki potensi untuk diterapkan sebagai solusi dari berbagai
+            persoalan di masyarakat atau dikembangkan untuk komersialisasi yang dapat meningkatkan produktivitas dan daya saing nasional. Selain itu, sejumlah perguruan tinggi juga memiliki kepakaran yang mumpuni untuk menjawab
+            berbagai persoalan yang dihadapi sektor swasta maupun Pemerintah yang pada gilirannya akan mendorong peningkatan kinerja dan daya saing nasional</p>
+
+        <h2>3. TUJUAN</h2> 
+        <p class="teks">Tujuan utama Program Backoffice Kedaireka adalah untuk mendorong terjadinya kerjasama yang saling menguntungkan 
+            dan berkelanjutan antara dosen sebagai pihak pengusul dengan dengan mitra sesuai dengan deskripsi masing-masing skema.</p>
+        
+        <h2>4. AKTOR</h2>
+        <table>
+            <tr>
+                <th>No</th>
+                <th>User Category</th>
+                <th>User Main Activity</th>
+            </tr>
+            <!-- Your data rows go here -->
+            <tr>
+                <td>1</td>
+                <td>Admin </td>
+                <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa
+                    melihat daftar dan detail proposal 2023 <br> Bisa melihat
+                    daftar dan detail proposal 2022 <br> Bisa melihat daftar dan
+                    detail proposal 2021</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Super Admin </td>
+                <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa
+                    melihat daftar dan detail proposal 2023 <br> Bisa melihat
+                    daftar dan detail proposal 2022 <br> Bisa melihat daftar dan
+                    detail proposal 2021</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Pengusul </td>
+                <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa
+                    melihat daftar dan detail proposal 2023 <br> Bisa melihat
+                    daftar dan detail proposal 2022 <br> Bisa melihat daftar dan
+                    detail proposal 2021</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Tim Reviewer</td>
+                <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa
+                    melihat daftar dan detail proposal 2023 <br> Bisa melihat
+                    daftar dan detail proposal 2022 <br> Bisa melihat daftar dan
+                    detail proposal 2021</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Unit Pengelola (KUP) di Perguruan Tinggi</td>
+                <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa
+                    melihat daftar dan detail proposal 2023 <br> Bisa melihat
+                    daftar dan detail proposal 2022 <br> Bisa melihat daftar dan
+                    detail proposal 2021</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Unit Pengelola (KUP) di Perguruan Tinggi</td>
+                <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa
+                    melihat daftar dan detail proposal 2023 <br> Bisa melihat
+                    daftar dan detail proposal 2022 <br> Bisa melihat daftar dan
+                    detail proposal 2021</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Tim Sekretariat</td>
+                <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa
+                    melihat daftar dan detail proposal 2023 <br> Bisa melihat
+                    daftar dan detail proposal 2022 <br> Bisa melihat daftar dan
+                    detail proposal 2021</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Auditor</td>
+                <td>Bisa melihat daftar dan detail proposal 2024 <br> Bisa
+                    melihat daftar dan detail proposal 2023 <br> Bisa melihat
+                    daftar dan detail proposal 2022 <br> Bisa melihat daftar dan
+                    detail proposal 2021</td>
+            </tr>
+        </table>
+
+        <h2>5. FITUR YANG DIKEMBANGKAN</h2>
+        <table>
+            <tr>
+                <th>No</th>
+                <th>Epic</th>
+                <th>Feature</th>
+            </tr>
+            <!-- Your data rows go here -->
+            <tr>
+                <td>1</td>
+                <td>Perguruan Tinggi</td>
+                <td>Profiling oleh Admin <br>- Daftar Pengusul<br>- Daftar Industri<br>- Total Kolaborasi dengan Industri<br>- Total Pendanaan</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Mitra</td>
+                <td>Profiling oleh Admin <br>- Daftar Pengusul<br>- Daftar Proposal<br>- Daftar Mitra<br>- Total Kolaborasi dengan Perguruan Tinggi<br> - Total Pendanaan<br> Login <br> - Daftar Pengusul<br> - Daftar Proposal <br> - Status Pendanaan<br></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Pengusul</td>
+                <td>Profiling oleh Admin<br>- Daftar Mitra<br>- Total Pendanaan<br>Login<br>- Daftar Proposal<br>- Status Pendanaan <br></td>
+            </tr>
+        </table>
+
+        <h2>6. DETAIL FITUR</h2>
+
+        <h3> 1. DAFTAR PROPOSAL</h3>
+        <h4> Informasi Singkat </h4>
+        <table>
+            <tr>
+                <th>Target Release</th>
+                <td>1.0</td>
+            </tr>
+            <tr>
+                <th>Epic</th>
+                <td>Pengusul</td>
+            </tr>
+            <tr>
+                <th>Short Explanation</th>
+                <td>Fitur yang digunakan oleh pengusul setelah login supaya dapat melihat Daftar Proposal 
+                    yang diinginkan</td>
+            </tr>
+            <tr>
+                <th>Document Status</th>
+                <td>Draft</td>
+            </tr>
+        </table><br>
+        <img src="pengusul-dafpro.png" alt="" width="100%">
+
+        <h3>REQUIREMENT</h3>
+
+        <table>
+            <tr>
+                <th>No</th>
+                <th>User Story</th>
+                <th>Priority</th>
+                <th>Notes</th>
+            </tr>
+            <!-- Your data rows go here -->
+            <tr>
+                <td>1</td>
+                <td> As a Mitra <br> I Want Search category as user <br> So I
+                    Can search and acces every Mitra features</td>
+                <td>Must Have</td>
+                <td>Form filter mitra sebagai berikut <br> 1. Filter kategori
+                    Mitra* <br> 2. Filter Bidang* <br> 3. Filter Pengajuan
+                    Proposal*</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td> As a Admin <br> I Want Search category as Admin <br> So I
+                    Can search and acces every Admin features</td>
+                <td>Must Have</td>
+                <td>Form filter mitra sebagai berikut <br> 1. Filter kategori
+                    Mitra* <br> 2. Filter Bidang* <br> 3. Filter Pengajuan
+                    Proposal*</td>
+            </tr>
+        </table>
+
+        <h3>SCENARIO</h3>
+
+        <table>
+            <tr>
+                <th>No</th>
+                <th>Scenario</th>
+                <th>Type</th>
+                <th>Description</th>
+                <th>Validation</th>
+            </tr>
+            <!-- Your data rows go here -->
+            <tr>
+                <td>1</td>
+                <td>As a Mitra Ikomerz Ilmu Komputer IPB <br>I want login as
+                    mitra <br> So i can search and acces every mitra
+                    features</td>
+                <td>Postive</td>
+                <td>Mitra Ikomerz Ilmu Komputer IPB mendapatkan hasil pencarian
+                    sesuai filter</td>
+                <td>content</td>
+            </tr>
+
+        </table>
+
+        <h3>USER INTERFACE & DESIGN</h3>
+
+        <table>
+            <tr>
+                <th>Description</th>
+                <th>Login</th>
+            </tr>
+            <tr>
+                <td>Login Page</td>
+                <td>Image</td>
+            </tr>
+            <tr>
+                <td>Link figma</td>
+                <td>ini ceritanya link figma</td>
+            </tr>
+            <tr>
+            </tr>
+        </table>
+
+        <h3> 2. FIELD PENCARIAN</h3>
+        <h4> Informasi Singkat </h4>
+        <table>
+            <tr>
+                <th>Target Release</th>
+                <td>1.0</td>
+            </tr>
+            <tr>
+                <th>Epic</th>
+                <td>Mitra</td>
+            </tr>
+            <tr>
+                <th>Short Explanation</th>
+                <td>Fitur untuk user/mitra dapat melakukan pencarian berdasarkan
+                    kriteria yang diinginkan</td>
+            </tr>
+            <tr>
+                <th>Document Status</th>
+                <td>Draft</td>
+            </tr>
+        </table>
+
+        <h3>REQUIREMENT</h3>
+
+        <table>
+            <tr>
+                <th>No</th>
+                <th>User Story</th>
+                <th>Priority</th>
+                <th>Notes</th>
+            </tr>
+            <!-- Your data rows go here -->
+            <tr>
+                <td>1</td>
+                <td> As a Mitra <br> I Want Search category as user <br> So I
+                    Can search and acces every Mitra features</td>
+                <td>Must Have</td>
+                <td>Form filter mitra sebagai berikut <br> 1. Filter kategori
+                    Mitra* <br> 2. Filter Bidang* <br> 3. Filter Pengajuan
+                    Proposal*</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td> As a Admin <br> I Want Search category as Admin <br> So I
+                    Can search and acces every Admin features</td>
+                <td>Must Have</td>
+                <td>Form filter mitra sebagai berikut <br> 1. Filter kategori
+                    Mitra* <br> 2. Filter Bidang* <br> 3. Filter Pengajuan
+                    Proposal*</td>
+            </tr>
+        </table>
+
+        <h3>SCENARIO</h3>
+
+        <table>
+            <tr>
+                <th>No</th>
+                <th>Scenario</th>
+                <th>Type</th>
+                <th>Description</th>
+                <th>Validation</th>
+            </tr>
+            <!-- Your data rows go here -->
+            <tr>
+                <td>1</td>
+                <td>As a Mitra Ikomerz Ilmu Komputer IPB <br>I want login as
+                    mitra <br> So i can search and acces every mitra
+                    features</td>
+                <td>Postive</td>
+                <td>Mitra Ikomerz Ilmu Komputer IPB mendapatkan hasil pencarian
+                    sesuai filter</td>
+                <td>content</td>
+            </tr>
+
+        </table>
+
+        <h3>USER INTERFACE & DESIGN</h3>
+
+        <table>
+            <tr>
+                <th>Description</th>
+                <th>Login</th>
+            </tr>
+            <tr>
+                <td>Login Page</td>
+                <td>Image</td>
+            </tr>
+            <tr>
+                <td>Link figma</td>
+                <td>ini ceritanya link figma</td>
+            </tr>
+        </table><br>
+
+        <img src="pengusul-dafpro.png" alt="" width="100%">
+
+        <script>
+        // You can add JavaScript code here if needed
+    </script>
+
+    </body>
+</html>
